@@ -1,16 +1,71 @@
-## Hi there 👋
+# Portfolio
+- [О себе](#о-себе)
+- [CV](#cv)
+- [Навыки](#навыки)
+- [Софт](#софт)
+- [Примеры работ](#примеры-работ)
+  * [Тест-кейсы](#тест-кейсы)
+  * [Баг-репорты](#баг-репорты)
+  * [Mindmap](#mindmap)
 
-<!--
-**vgurov/vgurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
 
-Here are some ideas to get you started:
+Учился на культурной антропологии, работал в маркетинге, службе асессоров в Яндексе и запускал рекламные кампании в Яндекс.Директе.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+С 1997 года активно играю и изучаю видеоигры как объект культуры и технологии. 
+
+Принимал участие в нескольких бета-тестах, закончил курс OTUS QA Gamedev.
+
+## CV
+Резюме доступно на [HeadHunter](https://spb.hh.ru/resume/5585045fff0e9127330039ed1f797a587a4d79).
+
+## Навыки
+
+Примеры работ можно посмотреть [здесь](#примеры-работ)
+
+__Ручное тестирование__
+  * составление чек-листов, оформление тест-кейсов и баг-репортов
+
+__Тест-анализ__
+  * декомпозиция и подбор оптимальных техник тест-дизайна для проведения тестирования
+
+__Тестирование API__
+  * формирование запросов и оценка ответов
+
+__Базы данных SQL__
+  * обращение к БД с помощью базовых запросов для получения данных
+
+## Софт
+
+__Notion__
+  * оформление чек-листов, тест-кейсов, баг-репортов
+
+__Яндекс.Трекер, Trello__
+  * постановка, ведение задач и отслеживание прогресса
+
+__Android Studio__
+  * снятие логов
+  * тестирование функционала игры
+
+__Postman__
+ * формирование запросов
+ * тестирование поведения API
+
+__MySQL__
+ * формирование базовых запросов к БД
+
+
+## Примеры работ
+
+### Тест-кейсы
+
+- Тест-кейсы по игре Fly Corp, находятся [здесь](https://docs.google.com/spreadsheets/d/1JtHXnXcINxyGHn5it1zXLW9RXIjeyCkvLLgFqm868T8/edit?gid=0#gid=0)
+
+
+### Баг-репорты
+
+- Тестирование блокаута учебного уровня. Баг-репорты находятся [здесь](https://docs.google.com/spreadsheets/d/1_6Ub5H1HQodH-Wed2e82-nVLYepHD2gBCtrUJE20wmU/edit?usp=sharing)
+- Тестирование базового функционала прототипа игры [Iron Waste](https://ironwaste.itch.io/ironwaste) [здесь](https://docs.google.com/spreadsheets/d/1CMWl9bGocYXLqSopsbHOiU44m3g8cGv-PqzebkuvnxM/edit?usp=sharing)
+
+### Mindmap
+* Декомпозиция игры [Gallery: Coloring Book & Decor](https://beresnev.games/en/games/gallery). Смотреть [здесь](https://miro.com/app/board/uXjVI_DdyMs=/?share_link_id=990984491225).
