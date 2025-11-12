@@ -19,9 +19,22 @@
 ## CV
 Резюме доступно на [HeadHunter](https://spb.hh.ru/resume/5585045fff0e9127330039ed1f797a587a4d79).
 
-## Навыки
+## Примеры работ
 
-Примеры работ можно посмотреть [здесь](#примеры-работ)
+### Тест-кейсы
+
+- Тест-кейсы в выпускной квалификационной работе по мобильной игре Gallery: Coloring book & decor [здесь](https://clck.ru/3QGjtS)
+
+
+### Баг-репорты
+
+- Тестирование мобильной игры Gallery: Coloring book & decor [здесь](https://clck.ru/3QGjtS)
+- Тестирование базового функционала прототипа игры [Iron Waste](https://ironwaste.itch.io/ironwaste), оформлено в Яндекс.Трекере [здесь](https://disk.yandex.ru/d/CKSGXOkqh7mmmQ)
+
+### Mindmap
+* Декомпозиция игры [Gallery: Coloring Book & Decor](https://beresnev.games/en/games/gallery). Смотреть [здесь](https://miro.com/app/board/uXjVI_DdyMs=/?share_link_id=990984491225).
+
+## Навыки
 
 __Ручное тестирование__
   * составление чек-листов, оформление тест-кейсов и баг-репортов
@@ -53,19 +66,3 @@ __Postman__
 
 __MySQL__
  * формирование базовых запросов к БД
-
-
-## Примеры работ
-
-### Тест-кейсы
-
-- Тест-кейсы по игре Fly Corp, находятся [здесь](https://docs.google.com/spreadsheets/d/1JtHXnXcINxyGHn5it1zXLW9RXIjeyCkvLLgFqm868T8/edit?gid=0#gid=0)
-
-
-### Баг-репорты
-
-- Тестирование блокаута учебного уровня. Баг-репорты находятся [здесь](https://docs.google.com/spreadsheets/d/1_6Ub5H1HQodH-Wed2e82-nVLYepHD2gBCtrUJE20wmU/edit?usp=sharing)
-- Тестирование базового функционала прототипа игры [Iron Waste](https://ironwaste.itch.io/ironwaste) [здесь](https://docs.google.com/spreadsheets/d/1CMWl9bGocYXLqSopsbHOiU44m3g8cGv-PqzebkuvnxM/edit?usp=sharing)
-
-### Mindmap
-* Декомпозиция игры [Gallery: Coloring Book & Decor](https://beresnev.games/en/games/gallery). Смотреть [здесь](https://miro.com/app/board/uXjVI_DdyMs=/?share_link_id=990984491225).
