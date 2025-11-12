@@ -29,7 +29,7 @@
 ### Баг-репорты
 
 - Тестирование мобильной игры Gallery: Coloring book & decor [здесь](https://clck.ru/3QGjtS)
-- Тестирование базового функционала прототипа игры [Iron Waste](https://ironwaste.itch.io/ironwaste), оформлено в Яндекс.Трекере [здесь](https://disk.yandex.ru/d/CKSGXOkqh7mmmQ)
+- Тестирование базового функционала прототипа игры [Iron Waste](https://ironwaste.itch.io/ironwaste-playtest), оформлено в Яндекс.Трекере [здесь](https://disk.yandex.ru/d/CKSGXOkqh7mmmQ)
 
 ### Mindmap
 * Декомпозиция игры [Gallery: Coloring Book & Decor](https://beresnev.games/en/games/gallery). Смотреть [здесь](https://miro.com/app/board/uXjVI_DdyMs=/?share_link_id=990984491225).
